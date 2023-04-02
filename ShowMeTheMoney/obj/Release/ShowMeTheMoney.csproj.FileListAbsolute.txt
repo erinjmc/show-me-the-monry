@@ -1,0 +1,8 @@
+D:\Projects\ShowMeTheMoney\ShowMeTheMoney\bin\Release\ShowMeTheMoney.exe.config
+D:\Projects\ShowMeTheMoney\ShowMeTheMoney\bin\Release\ShowMeTheMoney.exe
+D:\Projects\ShowMeTheMoney\ShowMeTheMoney\bin\Release\ShowMeTheMoney.pdb
+D:\Projects\ShowMeTheMoney\ShowMeTheMoney\obj\Release\ShowMeTheMoney.csproj.AssemblyReference.cache
+D:\Projects\ShowMeTheMoney\ShowMeTheMoney\obj\Release\ShowMeTheMoney.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ShowMeTheMoney\ShowMeTheMoney\obj\Release\ShowMeTheMoney.csproj.CoreCompileInputs.cache
+D:\Projects\ShowMeTheMoney\ShowMeTheMoney\obj\Release\ShowMeTheMoney.exe
+D:\Projects\ShowMeTheMoney\ShowMeTheMoney\obj\Release\ShowMeTheMoney.pdb
